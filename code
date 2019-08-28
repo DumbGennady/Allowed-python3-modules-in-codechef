@@ -1,4 +1,4 @@
-#Running the following code lists on Codechef IDE lists all the present modules
+#Running the following code on Codechef IDE lists all the present modules
 import sys
 print("\n".join(sys.modules.keys()))
 #print(sys.modules.keys()) will print all the modules in a same line which is obviously inconvenient for Github
